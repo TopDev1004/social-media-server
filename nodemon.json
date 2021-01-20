@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "Eduardo",
+        "MONGO_PASSWORD": "456456",
+        "MONGO_DEFAULT_DATABASE": "social-media"
+    }
+}
